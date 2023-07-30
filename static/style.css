@@ -1,0 +1,51 @@
+/* static/css/style.css */
+
+body {
+    background-color: #6060c9;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+.details{
+  align-items: right;
+}
+.container {
+    margin-top: 50px;
+}
+
+.card-header {
+    background-color: #cfd1e4;
+    color: #09075a;
+}
+
+.card-body {
+    background-color: #22223b;
+    color: #fff;
+}
+
+.form-group label {
+    color: #fca311;
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.form-control {
+    background-color: #3a3d5b;
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #fca311;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #ffc8a8;
+}
+
+#prediction {
+    color: #fca311;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
